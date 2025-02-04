@@ -1,2 +1,3 @@
 # Multiplication-table
-create a multiplication table in python using the for loop or the while loop. The multiplication table can also be created using some pre-defined functions such as the def function.
+
+"for loop" in programming is primarily used to automatically calculate and display the results of multiplication for a given range of numbers, essentially creating a structured table where each row represents a number multiplied by a series of other numbers, all achieved efficiently through the repetitive nature of the loop. 
